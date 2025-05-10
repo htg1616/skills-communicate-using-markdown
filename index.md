@@ -70,3 +70,7 @@ int main() {
     return 0;
 }
 ```
+
+- [ ] Complete Github Markdown Course
+- [ ] Complete Reading Friedberg 2.4
+- [ ] Study Trie structure
